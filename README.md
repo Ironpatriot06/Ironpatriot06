@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Hi you can reach out to me for anything!<br>📚 I'm currently learning Next.js</p>
+<p align="left">✨ Hi you can reach out to me for anything!<br>📚 I'm currently learning React</p>
 
 ###
 

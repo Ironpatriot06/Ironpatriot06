@@ -36,7 +36,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Socket-io.svg" height="40" alt="socket.io logo"  />
   <img width="12" />
-  <img src="https://www.svgrepo.com/show/374012/webrtc.svg" height="40" alt="webrtc logo"  />
 </div>
 
 ###

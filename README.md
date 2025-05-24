@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Ironpatriot06 and I'm a Web-developer.</p>
+<p align="left">My name is Ironpatriot06 and I'm a Web Developer and am also an aspiring AI enthusiast.</p>
 
 ###
 

@@ -17,7 +17,6 @@
 <h2 align="left">I code with</h2>
 
 ###
-
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
@@ -34,12 +33,17 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+  <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Socket-io.svg" height="40" alt="socket.io logo"  />
   <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/37/Streamlit_logo_mark.svg" height="40" alt="streamlit logo" />
+  <img width="12" />
+  <img src="https://seeklogo.com/images/L/langchain-logo-DA1E4C1D24-seeklogo.com.png" height="40" alt="langchain logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/openai.svg" height="40" alt="openai logo" />
+  <img width="12" />
+  <img src="https://avatars.githubusercontent.com/u/137595134?s=200&v=4" height="40" alt="langflow logo" />
 </div>
-
-###
-
 <h2 align="left">Reach out to me on:</h2>
 
 ###

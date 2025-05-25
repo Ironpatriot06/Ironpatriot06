@@ -12,7 +12,6 @@
 
 <p align="left">✨ Hi you can reach out to me for anything!
 
-###
 <h2 align="left">I code with</h2>
 
 <div align="center">
@@ -43,11 +42,11 @@
   <!-- AI Tools -->
   <img src="https://streamlit.io/images/brand/streamlit-logo-secondary-colormark-darktext.svg" height="40" alt="Streamlit" />
   <img width="12" />
-  <img src="https://seeklogo.com/images/L/langchain-logo-DA1E4C1D24-seeklogo.com.png" height="40" alt="LangChain" />
+  <img src="https://raw.githubusercontent.com/logspace-ai/langflow/main/docs/static/img/logo.png" height="40" alt="Langflow" />
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/hwchase17/langchain/master/docs/static/img/logo.png" height="40" alt="LangChain" />
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg" height="40" alt="OpenAI" />
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/logspace-ai/langflow/main/docs/static/img/logo.png" height="40" alt="Langflow" />
 </div>
 
 ###

@@ -41,10 +41,8 @@
 
   <!-- AI Tools -->
   <img src="https://streamlit.io/images/brand/streamlit-logo-secondary-colormark-darktext.svg" height="40" alt="Streamlit" />
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/logspace-ai/langflow/main/docs/static/img/logo.png" height="40" alt="Langflow" />
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/hwchase17/langchain/master/docs/static/img/logo.png" height="40" alt="LangChain" />
+
+
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg" height="40" alt="OpenAI" />
 </div>
